@@ -6,21 +6,21 @@ required. This takes time and provides room for error. This script pulls the inf
 tab for pricing audits. I have packed this into an exe, giving anyone the ability to run this report on demand and in minutes.
 
 <p align="center">
-<img src="https://github.com/aaronphaneuf/item_database_report/blob/master/idr.PNG" width="256" height="455">
+<img src="https://github.com/aaronphaneuf/item_database_report/blob/master/idr.png" width="256" height="455">
 </p>
 
 The excel file matched the aesthetics of the original:
 
 <p align="center">
-<img src="https://github.com/aaronphaneuf/item_database_report/blob/master/idr1.PNG" width="455" height="256">
+<img src="https://github.com/aaronphaneuf/item_database_report/blob/master/idr1.png" width="455" height="256">
 </p>
 
 <p align="center">
-<img src="https://github.com/aaronphaneuf/item_database_report/blob/master/idr2.PNG" width="455" height="256">
+<img src="https://github.com/aaronphaneuf/item_database_report/blob/master/idr2.png" width="455" height="256">
 </p>
 
 Pricing audit sheet, to compare attributes:
 
 <p align="center">
-<img src="https://github.com/aaronphaneuf/item_database_report/blob/master/pricing_audit_template.PNG" width="455" height="256">
+<img src="https://github.com/aaronphaneuf/item_database_report/blob/master/pricing_audit_template.png" width="455" height="256">
 </p>
