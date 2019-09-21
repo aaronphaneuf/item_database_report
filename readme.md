@@ -1,4 +1,4 @@
-# Item Database Report (IDR) - Python Build
+# Item Database Report (IDR) - Python Build 
 
 Every month, I build an item database report of every entry in our system along with unique and non-unique attributes depending on
 the province they are sold in. To build manually with excel, it takes about an hour as there are about 87,000 items and 17 vlookups
